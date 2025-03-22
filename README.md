@@ -21,14 +21,8 @@ Adafruit Fingerprint Sensor Library
 SPI / I2C for OLED Display (Optional)
 MQTT / Firebase (For IoT features, if included)
 Installation & Setup
-Clone this repository:
-sh
-Copy
-Edit
-git clone https://github.com/yourusername/biometric-security-system.git
-cd biometric-security-system
-Install required libraries in Arduino IDE.
-Connect the fingerprint sensor and other components.
+ 
+ 
 Upload the code to the microcontroller.
 Enroll fingerprints and test authentication.
 Future Enhancements
